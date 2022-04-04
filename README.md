@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @ASM_Royal
 - 👀 I’m interested in Coding and Cyber-Security
 - 🌱 I’m currently learning C, C#, C++ and Python
-- 📫 How to reach me: asm.royal@crime.su
+- 📫 How to reach me: 
+      Email: asm.royal@crime.su, asm.royal@terrorist.lol, asm.royal@criminal.li
+      Instagram: asm_royal
+      TikTok: asm_royal_
+      Discord: ! asm_royal#5867
 
 <!---
 ASMRoyal/ASMRoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
