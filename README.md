@@ -5,7 +5,7 @@
       - Email: asm.royal@crime.su, asm.royal@terrorist.lol, asm.royal@criminal.li
       - Instagram: asm_royal
       - TikTok: asm_royal_
-      - Discord: ! asm_royal#5867
+      - Discord: ASM_Royal#9532
 
 <!---
 ASMRoyal/ASMRoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
