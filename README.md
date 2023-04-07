@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASM_Royal
 - 👀 I’m interested in Coding and Cyber-Security
-- 🌱 I’m currently good at C, C#, C++, Python, Golang and Hacking
+- 🌱 I’m currently good in C, C#, C++, Python, Golang and Hacking
 - 📫 How to reach me: 
       - Email: asm.royal@crime.su, asm.royal@terrorist.lol, asm.royal@criminal.li
       - Instagram: asm_royal
