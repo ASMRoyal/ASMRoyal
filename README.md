@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASM_Royal
+- 👋 Hi, I’m @ASM_Royal also known as 0xYZ
 - 👀 I’m interested in Coding and Cyber-Security
 - 🌱 I’m currently good in C, C#, C++, Python, Golang and Hacking
 - 📫 How to reach me: 
