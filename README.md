@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASM%20Royal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![ASM_Royal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMRoyal)](https://github.com/anuraghazra/github-readme-stats)
+[![ASM_Royal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMRoyal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
