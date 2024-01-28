@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ASMRoyal" alt="0xYZ" /></a> </p>
   
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ASMRoyal&theme=dracula" /></a> </p>
+
+<img align='center' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
