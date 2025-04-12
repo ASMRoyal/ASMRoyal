@@ -36,11 +36,11 @@
   <img src="https://komarev.com/ghpvc/?username=ASMRoyal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASM%20Royal&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ASM%20Royal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![ASM_Royal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASMRoyal&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ASM_Royal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASMRoyal&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMRoyal&size_weight=0.5&count_weight=0.5&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMRoyal&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight)
 
 ---
 
