@@ -1,4 +1,4 @@
-# 💀 **@ASM_Royal** (0xYZ)
+# 💀 **0xYZ** (@ASMRoyal)
 
 > ***Coding | Blackhat | Pentesting***
 
