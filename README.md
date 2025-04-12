@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 **Get in Touch (If You Dare):**
+### 💻 **Get in Touch:**
 - 📧 **Email:**  
     - `asm.royal@crime.su`  
     - `asm.royal@terrorist.lol`  
